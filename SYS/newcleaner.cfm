@@ -1,3 +1,5 @@
+<!--- Genilson Xavier --->
+
 <cfsetting requesttimeout="9999999" />
 <!--- Pega endereço, cnpj e outros dados do CNES --->
 <cfquery name="qEstabelecimento" datasource="local">
