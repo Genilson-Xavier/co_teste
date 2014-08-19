@@ -1,3 +1,5 @@
+<!--- Genilson Teste --->
+
 <cfparam name="url.profileType" default="" >
 <cfif len(url.profileType)>
 	<cfset cookie.perfilPortal=url.profileType>
